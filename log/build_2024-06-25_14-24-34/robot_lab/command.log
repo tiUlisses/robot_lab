@@ -1,0 +1,4 @@
+Invoking command in '/home/urtech/robot_lab/src/robot_lab/build/robot_lab': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/urtech/robot_lab/src/robot_lab/build/robot_lab -- -j3 -l3
+Invoked command in '/home/urtech/robot_lab/src/robot_lab/build/robot_lab' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/urtech/robot_lab/src/robot_lab/build/robot_lab -- -j3 -l3
+Invoking command in '/home/urtech/robot_lab/src/robot_lab/build/robot_lab': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/urtech/robot_lab/src/robot_lab/build/robot_lab
+Invoked command in '/home/urtech/robot_lab/src/robot_lab/build/robot_lab' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/urtech/robot_lab/src/robot_lab/build/robot_lab
